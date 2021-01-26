@@ -1,6 +1,6 @@
 # RS Raspberry Pi Industrial Power Supply
 
-![Assembled Raspberry Pi industrial power supply](board.jpg)
+![Assembled Raspberry Pi industrial power supply](images/board.jpg)
 
 The files in this repository are the files necessary to construct a 9-30Vdc input, 5.1Vdc 2.5A output switch-mode power supply suitable for plugging into a Raspberry Pi computer.
 
@@ -23,3 +23,9 @@ The directory structure is as follows
 This project is for a Raspberry Pi switch-mode power supply that outputs 5.1Vdc at up to 2.5A from a 9-30Vdc input.
 
 The design has been done in DesignSpark PCB, and Gerbers are supplied for manufacturing.
+
+## License
+
+Copyright (C) 2021 RS Components Ltd.
+
+This design is published under the Solderpad Hardware License v2.1
