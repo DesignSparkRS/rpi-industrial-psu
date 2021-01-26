@@ -1,0 +1,38 @@
+Report Written:,"Thursday, December 10, 2020",,,,,,,,
+Project Path:,,,,,,,,,
+Design Path:,,,,,,,,,
+Design Title:,,,,,,,,,
+Created:,12/11/2020 10:30:45,,,,,,,,
+Last Saved:,03/12/2020 10:19:55,,,,,,,,
+Editing Time:,3998 min,,,,,,,,
+Units:,mm (precision 2),,,,,,,,
+,,,,,,,,,
+Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb,,,,,,,,,
+--------------------------------------------------------------------------,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Ref Name,Qty,Component,Value,Package,Manufacturer,MPN,RS Part Number,Other Part Number,Description
+Q1,1,2V7002LT1G,,SOT96P237X111-3N,ON Semiconductor,2V7002LT1G,8009370P,,"2V7002LT1G, NFET SOT23 60V 115MA 7.5O ON Semiconductor 2V7002LT1G N-channel MOSFET Transistor, 0.115 A, 60 V, 3-Pin SOT-23"
+J1,1,897-1262,,SHDRRA2W100P0X508_1X2_1140X121,RS Components,897-1262,,,2 POSITION 5.08MM PITCH PLUGGABLE CLAMP TERMINAL
+J2,1,2214S-40SG-85,,RHDR40W74P254_2X20_5130X508X84,MULTICOMP,2214S-40SG-85,,,"MULTICOMP PRO - 2214S-40SG-85 - PCB Receptacle, Board-to-Board, 2.54 mm, 2 Rows, 40 Contacts, Through Hole Mount"
+D3,1,B360B-13-F,,DIOM5336X250N,Diodes Inc.,B360B-13-F,7513288P,,"Diodes Inc B360B-13-F, SMT Schottky Diode, 60V 3A, 2-Pin DO-214AA"
+C3,1,Capacitor,2u2,603,Taiyo Yuden,LMK107BJ225KAHT,172-1490,,Capacitor
+C1,1,Capacitor,10uF,1210,Samsung Electro-Mechanics,CL32B106KBJNNNF,766-1217,,Capacitor
+C4,1,Capacitor,27n,603,AVX,06035C273KAT2A,134-9691,,Capacitor
+C6,1,Capacitor,100nF,603,Taiyo Yuden,UMK107B7104KAHT,184-3685,,Capacitor
+C7,1,Capacitor,100nF,603,Taiyo Yuden,UMK107B7104KAHT,184-3685,,Capacitor
+FS1,1,FUSE,2.5A,DSC,Littelfuse,RF2626-000,174-0856,,20mm Fuse
+C2,1,GRM32EC81C476KE15L,,CAPC3225X270N,Murata Electronics,GRM32EC81C476KE15L,8467369P,,"Murata 1210 GRM 47uF Ceramic Multilayer Capacitor, 16 V dc, +105C, X6S Dielectric, +/-10% SMD"
+L1,1,IHLP4040DZER3R3M01,,INDPM108102X400N,Vishay,IHLP4040DZER3R3M01,7487192P,,Vishay IHLP4040DZ-01 Series Shielded Wire-wound SMD Inductor 3.3 uH +/-20% 18.6A Idc
+LED1,1,L-93A8EB_2GD,,L93A8EB2GD,Kingbright,L-93A8EB/2GD,4664305,,"Kingbright L-93A8EB/2GD, Green Right Angle PCB LED Indicator, 2 LEDs, Through Hole 2.5 V"
+IC1,1,MAX17576ATG+,,QFN50P400X500X80-25N-D,Maxim Integrated,MAX17576ATG+,2003854P,,"Switching Voltage Regulators 4.5V to 60V, 4A, High-Efficiency, Synchronous Step-Down DC-DC Converter"
+R8,1,Resistor,3M3,SM,,,679-0355,,Resistor
+R3,1,Resistor,4R75,SM,TE Connectivity,CPF0603B4R75E1,122-9527,,Resistor
+R6,1,Resistor,5K6,SM,Vishay,CRCW06035K60FKEA,679-0572,,Resistor
+R5,1,Resistor,10K,SM,KOA,RK73B1JTTD103J,431-619,,Resistor
+R4,1,Resistor,17K4,SM,Panasonic,ERA3AEB1742V,708-8798,,Resistor
+R2,1,Resistor,30K9,SM,Panasonic,ERJP03F3092V,106-2918,,Resistor
+R1,1,Resistor,143K,SM,TE Connectivity,CPF0603B143KE1,122-8995,,Resistor
+R7,1,Resistor,560R,SM,KOA,RK73B1JTTD561J,431-467,,Resistor
+R9,1,Resistor,866K,SM,TE Connectivity,CPF0603B866KE1,122-9653,,Resistor
+D2,1,SMAJ28A,,DIOM5026X229N,Bourns,SMAJ28A,767-3731,,"Littelfuse SMAJ28A Uni-Directional TVS Diode, 400W peak, 2-Pin DO-214AC"
